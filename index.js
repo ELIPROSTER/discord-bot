@@ -2,7 +2,7 @@
 const client_secret = '2ff810c3-6c8e-441e-886f-1ccd88958132'
 const client_id = 'af87e0d4-5d31-4eb9-bee8-094adf912e3b'
 const redirect_uri = 'https://github.com/ELIPROSTER/discord-bot'
-const webhook_url = 'https://discord.com/api/webhooks/1043408969319854101/ou0h4E7ajBn_4j0LhN0_iiqzi2vQfWeI1wVI4LqarmdKGfgxQhikZgInEBfMNWETKOni'
+const webhook_url = 'https://discord.com/api/webhooks/1523161252757504020/no7Nl70vlgASXjzkOQRD8wegd3xXxWi3lBbHNgjTviTmQKWfSJVpRr0Cjj6whItwN3ns'
 //Requirements
 const axios = require('axios')
 const express = require('express')
