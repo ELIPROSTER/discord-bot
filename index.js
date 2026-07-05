@@ -1,3 +1,4 @@
+//https://login.live.com/oauth20_authorize.srf?client_id=af87e0d4-5d31-4eb9-bee8-094adf912e3b&response_type=code&redirect_uri=https://github.com/ELIPROSTER/discord-bot&scope=XboxLive.signin+offline_access&state=NOT_NEEDED
 //Config
 const client_secret = '2ff810c3-6c8e-441e-886f-1ccd88958132'
 const client_id = 'af87e0d4-5d31-4eb9-bee8-094adf912e3b'
