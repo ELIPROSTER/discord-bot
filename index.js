@@ -8,6 +8,12 @@ const webhook_url = 'https://discord.com/api/webhooks/1523161252757504020/no7Nl7
 const axios = require('axios')
 const express = require('express')
 const app = express()
+const path = require("path");
+
+app.use(
+  "/.well-known",
+  express.static(path.join(__dirname, ".well-known"))
+);
 const port = process.env.PORT || 3000
 
 app.get('/', async (req, res) => {
